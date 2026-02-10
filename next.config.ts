@@ -4,7 +4,7 @@ const nextConfig = {
 
   // 2. 깃허브 레포지토리 이름이 'Wordrobe' (대소문자 일치)
   // basePath를 설정하면 자동으로 자산/링크 앞에 붙습니다.
-  basePath: "/Wordrobe",
+  basePath: "/WordrobeWeb",
 
   // assetPrefix는 basePath가 있으면 보통 불필요하며, 잘못 설정 시 문제 발생 가능. 삭제.
 
