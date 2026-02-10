@@ -1,0 +1,383 @@
+[
+  { "korean": "사과가 빨갛습니다.", "english": "The apple is red" },
+  { "korean": "하늘이 파랗습니다.", "english": "The sky is blue" },
+  { "korean": "저는 학교에 갑니다.", "english": "I go to school" },
+  { "korean": "그는 공을 찹니다.", "english": "He kicks the ball" },
+  { "korean": "그녀는 책을 읽습니다.", "english": "She reads a book" },
+  { "korean": "물 좀 주세요.", "english": "Please give me water" },
+  { "korean": "날씨가 좋습니다.", "english": "The weather is good" },
+  { "korean": "고양이가 잡니다.", "english": "The cat is sleeping" },
+  { "korean": "강아지가 뜁니다.", "english": "The dog runs" },
+  { "korean": "엄마가 요리를 하십니다.", "english": "Mom is cooking" },
+  { "korean": "아빠가 운전을 하십니다.", "english": "Dad is driving" },
+  { "korean": "우리는 친구입니다.", "english": "We are friends" },
+  { "korean": "이것은 제 가방입니다.", "english": "This is my bag" },
+  { "korean": "문 좀 열어주세요.", "english": "Open the door please" },
+  { "korean": "창문을 닫아주세요.", "english": "Close the window please" },
+  { "korean": "지금 몇 시예요?", "english": "What time is it now" },
+  { "korean": "만나서 반갑습니다.", "english": "Nice to meet you" },
+  { "korean": "제 이름은 킴입니다.", "english": "My name is Kim" },
+  { "korean": "어디에 사세요?", "english": "Where do you live" },
+  { "korean": "저는 서울에 살아요.", "english": "I live in Seoul" },
+  { "korean": "영어를 할 수 있어요.", "english": "I can speak English" },
+  { "korean": "배가 고파요.", "english": "I am hungry" },
+  { "korean": "목이 말라요.", "english": "I am thirsty" },
+  { "korean": "화장실이 어디예요?", "english": "Where is the bathroom" },
+  { "korean": "얼마예요?", "english": "How much is it" },
+  { "korean": "도와주세요.", "english": "Please help me" },
+  { "korean": "감사합니다.", "english": "Thank you" },
+  { "korean": "죄송합니다.", "english": "I am sorry" },
+  { "korean": "안녕히 가세요.", "english": "Goodbye" },
+  { "korean": "좋은 아침입니다.", "english": "Good morning" },
+  { "korean": "잘 자요.", "english": "Good night" },
+  { "korean": "오늘 뭐 해요?", "english": "What are you doing today" },
+  { "korean": "같이 놀아요.", "english": "Let's play together" },
+  { "korean": "숙제를 하고 있어요.", "english": "I am doing homework" },
+  { "korean": "TV를 보고 있어요.", "english": "I am watching TV" },
+  { "korean": "음악을 듣고 있어요.", "english": "I am listening to music" },
+  { "korean": "축구를 좋아해요.", "english": "I like soccer" },
+  { "korean": "피자를 먹고 싶어요.", "english": "I want to eat pizza" },
+  { "korean": "행복해요.", "english": "I am happy" },
+  { "korean": "슬퍼요.", "english": "I am sad" },
+  { "korean": "피곤해요.", "english": "I am tired" },
+  { "korean": "바빠요.", "english": "I am busy" },
+  { "korean": "재미있어요.", "english": "It is fun" },
+  { "korean": "어려워요.", "english": "It is difficult" },
+  { "korean": "쉬워요.", "english": "It is easy" },
+  { "korean": "사랑해요.", "english": "I love you" },
+  { "korean": "내일 봐요.", "english": "See you tomorrow" },
+  { "korean": "조심하세요.", "english": "Be careful" },
+  { "korean": "천천히 말해주세요.", "english": "Speak slowly please" },
+  { "korean": "다시 말해주세요.", "english": "Say it again please" },
+  { "korean": "커피를 마십니다.", "english": "I drink coffee" },
+  { "korean": "버스가 옵니다.", "english": "The bus is coming" },
+  { "korean": "비가 옵니다.", "english": "It is raining" },
+  { "korean": "눈이 옵니다.", "english": "It is snowing" },
+  { "korean": "꽃이 예쁩니다.", "english": "The flower is pretty" },
+  { "korean": "저는 학생입니다.", "english": "I am a student" },
+  { "korean": "그는 선생님입니다.", "english": "He is a teacher" },
+  { "korean": "이것은 책상입니다.", "english": "This is a desk" },
+  { "korean": "저것은 의자입니다.", "english": "That is a chair" },
+  { "korean": "여기는 공원입니다.", "english": "Here is a park" },
+  {
+    "korean": "나는 어제 공원에 갔습니다.",
+    "english": "I went to the park yesterday"
+  },
+  {
+    "korean": "우리는 내일 영화를 볼 것입니다.",
+    "english": "We will watch a movie tomorrow"
+  },
+  {
+    "korean": "그녀는 피아노를 칠 수 있습니다.",
+    "english": "She can play the piano"
+  },
+  { "korean": "당신은 수영을 할 수 있나요?", "english": "Can you swim" },
+  {
+    "korean": "이 음식은 정말 맛있습니다.",
+    "english": "This food is really delicious"
+  },
+  {
+    "korean": "저는 매일 아침 일찍 일어납니다.",
+    "english": "I wake up early every morning"
+  },
+  {
+    "korean": "그는 저녁에 운동을 합니다.",
+    "english": "He exercises in the evening"
+  },
+  {
+    "korean": "우리는 주말에 등산을 갑니다.",
+    "english": "We go hiking on weekends"
+  },
+  {
+    "korean": "제 동생은 매우 귀엽습니다.",
+    "english": "My younger sibling is very cute"
+  },
+  {
+    "korean": "오늘은 어제보다 더 춥습니다.",
+    "english": "Today is colder than yesterday"
+  },
+  {
+    "korean": "한국어는 배우기에 재미있습니다.",
+    "english": "Korean is fun to learn"
+  },
+  {
+    "korean": "저는 빨간색보다 파란색을 더 좋아합니다.",
+    "english": "I like blue more than red"
+  },
+  {
+    "korean": "시간이 있으면 저 좀 도와주세요.",
+    "english": "Please help me if you have time"
+  },
+  {
+    "korean": "모르는 것이 있으면 물어보세요.",
+    "english": "Please ask if there is anything you do not know"
+  },
+  {
+    "korean": "도서관에서 떠들면 안 됩니다.",
+    "english": "You should not make noise in the library"
+  },
+  {
+    "korean": "건강을 위해 야채를 많이 드세요.",
+    "english": "Eat lots of vegetables for your health"
+  },
+  {
+    "korean": "버스를 타는 것보다 걷는 것이 좋습니다.",
+    "english": "It is better to walk than to take a bus"
+  },
+  {
+    "korean": "비가 그칠 때까지 기다립시다.",
+    "english": "Let's wait until the rain stops"
+  },
+  {
+    "korean": "저는 나중에 의사가 되고 싶습니다.",
+    "english": "I want to become a doctor later"
+  },
+  {
+    "korean": "그는 항상 약속을 잘 지킵니다.",
+    "english": "He always keeps his promises"
+  },
+  {
+    "korean": "실례하지만, 이 근처에 지하철 역이 있나요?",
+    "english": "Excuse me but is there a subway station nearby"
+  },
+  {
+    "korean": "죄송하지만, 제가 지금 좀 바빠서 나중에 전화해 주시겠어요?",
+    "english": "I am sorry but I am a bit busy now so could you call me later"
+  },
+  {
+    "korean": "만약 내일 날씨가 좋다면, 우리는 소풍을 갈 것입니다.",
+    "english": "If the weather is good tomorrow we will go on a picnic"
+  },
+  {
+    "korean": "비록 힘들더라도 포기하지 않고 끝까지 노력해야 합니다.",
+    "english": "Even if it is hard you must not give up and try until the end"
+  },
+  {
+    "korean": "그 책은 너무 재미있어서 시간 가는 줄 모르고 읽었습니다.",
+    "english": "That book was so interesting that I read it without realizing time passing"
+  },
+  {
+    "korean": "저는 어렸을 때 피아노를 배웠지만 지금은 잘 치지 못합니다.",
+    "english": "I learned piano when I was young but I cannot play well now"
+  },
+  {
+    "korean": "성공하기 위해서는 열심히 공부하고 끊임없이 도전해야 합니다.",
+    "english": "To succeed you must study hard and constantly challenge yourself"
+  },
+  {
+    "korean": "그는 나에게 그 비밀을 아무에게도 말하지 말라고 부탁했습니다.",
+    "english": "He asked me not to tell that secret to anyone"
+  },
+  {
+    "korean": "우리가 환경을 보호하지 않으면, 미래에 큰 문제가 생길 것입니다.",
+    "english": "If we do not protect the environment big problems will arise in the future"
+  },
+  {
+    "korean": "여행을 통해 새로운 문화를 경험하는 것은 매우 중요한 일입니다.",
+    "english": "Experiencing new cultures through travel is a very important thing"
+  },
+  {
+    "korean": "내가 만약 너라면, 나는 그 제안을 받아들였을 것이다.",
+    "english": "If I were you I would have accepted that proposal"
+  },
+  {
+    "korean": "행복은 멀리 있는 것이 아니라 우리 마음속에 있습니다.",
+    "english": "Happiness is not far away but inside our hearts"
+  },
+  {
+    "korean": "어려운 상황에서도 긍정적으로 생각하는 것이 중요합니다.",
+    "english": "It is important to think positively even in difficult situations"
+  },
+  {
+    "korean": "친구들이 나를 기다리고 있기 때문에 서둘러야 합니다.",
+    "english": "I must hurry because my friends are waiting for me"
+  },
+  {
+    "korean": "그는 매우 친절할 뿐만 아니라 유머 감각도 뛰어납니다.",
+    "english": "He is not only very kind but also has a great sense of humor"
+  },
+  {
+    "korean": "건강한 삶을 살기 위해서는 규칙적인 운동과 식습관이 필요합니다.",
+    "english": "Regular exercise and eating habits are needed to live a healthy life"
+  },
+  {
+    "korean": "우리는 더 나은 세상을 만들기 위해 함께 노력해야 합니다.",
+    "english": "We must work together to make a better world"
+  },
+  {
+    "korean": "실패는 성공의 어머니라는 말이 있습니다.",
+    "english": "There is a saying that failure is the mother of success"
+  },
+  {
+    "korean": "오랜만에 고향 친구를 만나서 정말 즐거웠습니다.",
+    "english": "It was really enjoyable to meet a hometown friend after a long time"
+  },
+  {
+    "korean": "이 문제는 너무 복잡해서 혼자서 해결하기 어렵습니다.",
+    "english": "This problem is so complex that it is difficult to solve alone"
+  },
+  {
+    "korean": "저는 한국의 역사와 문화에 대해 배우는 것을 좋아합니다.",
+    "english": "I like learning about Korean history and culture"
+  },
+  {
+    "korean": "아침 식사를 거르는 것은 건강에 좋지 않습니다.",
+    "english": "Skipping breakfast is not good for your health"
+  },
+  {
+    "korean": "주말에는 보통 집에서 쉬거나 영화를 보러 갑니다.",
+    "english": "On weekends I usually rest at home or go to watch a movie"
+  },
+  {
+    "korean": "그녀는 웃는 얼굴이 정말 아름다운 사람입니다.",
+    "english": "She is a person whose smiling face is really beautiful"
+  },
+  {
+    "korean": "약속 시간에 늦지 않도록 미리 출발하는 것이 좋습니다.",
+    "english": "It is good to leave early so as not to be late for the appointment"
+  },
+  {
+    "korean": "저는 이 프로젝트가 성공적으로 끝날 것이라고 확신합니다.",
+    "english": "I am sure that this project will end successfully"
+  },
+  {
+    "korean": "다른 사람의 의견을 경청하는 태도가 필요합니다.",
+    "english": "An attitude of listening to others opinions is needed"
+  },
+  {
+    "korean": "그는 자신의 꿈을 이루기 위해 10년 동안 노력했습니다.",
+    "english": "He tried for 10 years to achieve his dream"
+  },
+  {
+    "korean": "비가 와서 길이 미끄러우니 조심해서 걸으세요.",
+    "english": "The road is slippery because of rain so please walk carefully"
+  },
+  {
+    "korean": "저는 커피를 마시면 잠이 잘 안 와요.",
+    "english": "I cannot sleep well if I drink coffee"
+  },
+  {
+    "korean": "그 영화는 제가 지금까지 본 것 중에서 가장 감동적이었습니다.",
+    "english": "That movie was the most touching one among what I have seen so far"
+  },
+  {
+    "korean": "어제 잃어버린 지갑을 찾아서 정말 다행입니다.",
+    "english": "It is really fortunate that I found the wallet I lost yesterday"
+  },
+  {
+    "korean": "한국의 여름은 덥고 습기가 많습니다.",
+    "english": "Summer in Korea is hot and humid"
+  },
+  {
+    "korean": "겨울에는 눈이 많이 와서 스키를 탈 수 있습니다.",
+    "english": "In winter it snows a lot so you can ski"
+  },
+  {
+    "korean": "제 취미는 사진 찍기와 자전거 타기입니다.",
+    "english": "My hobbies are taking photos and riding a bicycle"
+  },
+  {
+    "korean": "그는 대학에서 경영학을 전공하고 있습니다.",
+    "english": "He is majoring in business administration at university"
+  },
+  {
+    "korean": "우리는 다음 주에 제주도로 여행을 갈 계획입니다.",
+    "english": "We are planning to go on a trip to Jeju Island next week"
+  },
+  {
+    "korean": "요즘은 스마트폰 없이 생활하기가 불편합니다.",
+    "english": "These days it is inconvenient to live without a smartphone"
+  },
+  {
+    "korean": "저는 매일 저녁 뉴스를 보면서 세상 돌아가는 일을 확인합니다.",
+    "english": "I check what is going on in the world by watching the news every evening"
+  },
+  {
+    "korean": "그녀는 항상 밝은 미소로 사람들을 대합니다.",
+    "english": "She always treats people with a bright smile"
+  },
+  {
+    "korean": "건강을 유지하려면 충분한 수면을 취해야 합니다.",
+    "english": "To maintain health you must get enough sleep"
+  },
+  {
+    "korean": "저는 나중에 큰 집을 사서 부모님과 함께 살고 싶습니다.",
+    "english": "I want to buy a big house later and live with my parents"
+  },
+  {
+    "korean": "그는 어려움 속에서도 희망을 잃지 않았습니다.",
+    "english": "He did not lose hope even amidst difficulties"
+  },
+  {
+    "korean": "우리는 서로를 이해하고 배려하는 마음을 가져야 합니다.",
+    "english": "We must have a heart to understand and care for each other"
+  },
+  {
+    "korean": "시간은 돈보다 더 소중한 자산입니다.",
+    "english": "Time is a more precious asset than money"
+  },
+  {
+    "korean": "독서는 지식을 넓히는 가장 좋은 방법입니다.",
+    "english": "Reading is the best way to expand knowledge"
+  },
+  {
+    "korean": "그는 친구들 사이에서 인기가 매우 많습니다.",
+    "english": "He is very popular among his friends"
+  },
+  {
+    "korean": "저는 주말마다 봉사활동을 하러 갑니다.",
+    "english": "I go to do volunteer work every weekend"
+  },
+  {
+    "korean": "그녀는 요리 솜씨가 뛰어나서 모두가 그녀의 음식을 좋아합니다.",
+    "english": "She has excellent cooking skills so everyone likes her food"
+  },
+  {
+    "korean": "우리 회사는 서울 중심가에 위치해 있습니다.",
+    "english": "Our company is located in the center of Seoul"
+  },
+  {
+    "korean": "저는 아침에 일찍 일어나는 것이 습관이 되었습니다.",
+    "english": "Waking up early in the morning has become a habit for me"
+  },
+  {
+    "korean": "그는 항상 긍정적인 에너지를 주변 사람들에게 줍니다.",
+    "english": "He always gives positive energy to people around him"
+  },
+  {
+    "korean": "우리는 환경 보호를 위해 일회용품 사용을 줄여야 합니다.",
+    "english": "We must reduce the use of disposable products to protect the environment"
+  },
+  {
+    "korean": "그 영화의 마지막 장면은 정말 인상적이었습니다.",
+    "english": "The last scene of that movie was really impressive"
+  },
+  {
+    "korean": "저는 새로운 언어를 배우는 것이 즐겁습니다.",
+    "english": "I enjoy learning new languages"
+  },
+  {
+    "korean": "그는 자신의 실수에 대해 솔직하게 사과했습니다.",
+    "english": "He apologized honestly for his mistake"
+  },
+  {
+    "korean": "우리는 모두 평등한 권리를 가지고 있습니다.",
+    "english": "We all have equal rights"
+  },
+  {
+    "korean": "그녀는 어렸을 때부터 가수가 되는 것이 꿈이었습니다.",
+    "english": "It was her dream to become a singer since she was young"
+  },
+  {
+    "korean": "저는 매일 일기를 쓰면서 하루를 정리합니다.",
+    "english": "I organize my day by writing a diary every day"
+  },
+  {
+    "korean": "그는 항상 남을 먼저 생각하는 배려심 깊은 사람입니다.",
+    "english": "He is a thoughtful person who always thinks of others first"
+  },
+  {
+    "korean": "우리는 함께 힘을 모아 이 위기를 극복해야 합니다.",
+    "english": "We must gather our strength together to overcome this crisis"
+  }
+]
